@@ -32,5 +32,5 @@ The project simulates a small prototype of blockchain based E-Voting system. It 
 6. login to meta-mask with local blockchain account using ganache.
 ```
 ```
-7. connect to localhost blockchain network (http::/localhost:7545)
+7. connect to localhost blockchain network (http://localhost:7545)
 ```
